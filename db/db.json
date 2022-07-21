@@ -5,7 +5,18 @@
       "id": 1
     }
   ],
-  "editoras": [],
+  "editoras": [
+    {
+      "nome": "sei la !",
+      "site": "www.seila",
+      "id": 1
+    }
+  ],
   "livros": [],
-  "autores": []
+  "autores": [
+    {
+      "nome": "oii exemplo",
+      "id": 1
+    }
+  ]
 }
