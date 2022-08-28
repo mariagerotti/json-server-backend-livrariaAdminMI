@@ -3,11 +3,15 @@
     {
       "descrição": "oi tudo bem",
       "id": 1
+    },
+    {
+      "descrição": "categoria x",
+      "id": 2
     }
   ],
   "editoras": [
     {
-      "nome": "sei la !",
+      "nome": "seção nn sei",
       "site": "www.seila",
       "id": 1
     }
