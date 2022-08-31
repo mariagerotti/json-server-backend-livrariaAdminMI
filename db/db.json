@@ -16,7 +16,17 @@
       "id": 1
     }
   ],
-  "livros": [],
+  "livros": [
+    {
+      "titulo": "a revolução os bichos",
+      "ISBN": "234456",
+      "categoria": "Filosofia",
+      "editora": "Moderna",
+      "quantidade": 10,
+      "preco": 10,
+      "id": 1
+    }
+  ],
   "autores": [
     {
       "nome": "oii exemplo",
